@@ -699,7 +699,7 @@ function setupCommandHandlers(socket, number) {
             const seconds = Math.floor(uptime % 60);
 
             const text = `
-*𝗛ɪ 👋 © 𝐃ᴄᴛ 𝗖ʀɪᴍɪɴᴀʟ 𝐌𝙳 𝗠ɪɴɪ 𝗕ᴏᴛ 𝗨ꜱᴇʀ*
+*𝗛ɪ 👋 𝗠ɪɴɪ 𝗕ᴏᴛ 𝗨ꜱᴇʀ*
 
 *╭───────────╮*  
 *┃🗯️ 𝗚ʀᴇᴇᴛɪɴɢ :* ${greeting}
