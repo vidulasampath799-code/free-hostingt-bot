@@ -36,7 +36,7 @@ const BOT_NAME_FANCY = 'FREE HOSTING BOT';
 
 
 const config = {
-  MONGO_URI: process.env.MONGO_URI || 'mongodb+srv://chamafreehosting:Chamindu47@21@freechama.moe3veb.mongodb.net//',
+  MONGO_URI: process.env.MONGO_URI || 'mongodb+srv://Vidula:<db_password>@cluster0vidu.xys0fja.mongodb.net/',
   SESSION_ID: process.env.SESSION_ID || '', // your session id or catbox url
   CREDS_JSON: process.env.CREDS_JSON || '', // your raw creds.json content
   AUTO_VIEW_STATUS: 'true',
@@ -49,7 +49,7 @@ const config = {
   RCD_IMAGE_PATH: 'https://i.ibb.co/ZpMz03zx/A-striking-high-quality-202603302119.jpg',
   NEWSLETTER_JID: '1201234567890@newsletter',
   OTP_EXPIRY: 300000,
-  OWNER_NUMBER: process.env.OWNER_NUMBER || '94783314361',
+  OWNER_NUMBER: process.env.OWNER_NUMBER || '94766431674',
   CHANNEL_LINK: 'https://whatsapp.com/channel/xxxxxxxxxxxxxxxxxx',
   BOT_NAME: 'FREE HOSTING BOT',
   BOT_VERSION: '1.0.0V',
